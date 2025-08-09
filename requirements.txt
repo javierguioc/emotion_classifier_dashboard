@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+matplotlib
+scikit-learn
+pandas
